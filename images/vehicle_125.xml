@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>vehicle_125.jpg</filename>
+	<path>/Users/fasihmuhammad/Desktop/Dataset/dataset/images/vehicle_125.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1825</width>
+		<height>1225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>985</xmin>
+			<ymin>793</ymin>
+			<xmax>1245</xmax>
+			<ymax>937</ymax>
+		</bndbox>
+	</object>
+</annotation>
